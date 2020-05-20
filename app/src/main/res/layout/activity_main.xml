@@ -27,6 +27,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="0"
+        android:textSize="22sp"
         android:gravity="center_horizontal"
         android:padding="4dp">
     </TextView>
@@ -43,6 +44,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="0"
+            android:textSize="22sp"
             android:gravity="center_horizontal"
             android:padding="4dp"
             android:id="@+id/fouls_team_a">
@@ -78,6 +80,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="0"
+            android:textSize="22sp"
             android:gravity="center_horizontal"
             android:padding="4dp">
         </TextView>
@@ -94,6 +97,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="0"
+            android:textSize="22sp"
             android:gravity="center_horizontal"
             android:padding="4dp"
             android:id="@+id/fouls_team_b">

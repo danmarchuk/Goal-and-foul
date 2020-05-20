@@ -39,8 +39,8 @@ int foulsTeamB = 0;
     public void reset_Button(View view) {
         scoreTeamA = 0;
         scoreTeamB = 0;
-        int foulsTeamA = 0;
-        int foulsTeamB = 0;
+        foulsTeamA = 0;
+        foulsTeamB = 0;
         displayForTeamA(scoreTeamA);
         displayForTeamB(scoreTeamB);
         displayFoulForTeamA(foulsTeamA);
